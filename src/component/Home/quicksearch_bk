@@ -1,0 +1,79 @@
+<div className="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12 margin">
+                        <div className="tilecomponent1">
+                            <img src="/images/breakfast.png" style={{height: '150px',width:'100%',marginleft: '-15px'}} className="img-responsive"/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Breakfast
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Breakfast Options
+                            </div>
+                        </div>
+                    </div>
+                    <div className="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12 margin">
+                        <div className="tilecomponent1">
+                            <img src="/images/lunch.png" style={{height: '150px',width:'100%',marginleft: '-15px'}}/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Lunch
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Lunch Options
+                            </div>
+                        </div>
+                    </div>
+                    <div className="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12 margin">
+                        <div className="tilecomponent1">
+                            <img src="/images/sacks.png" style={{height: '150px',width:'100%',marginleft: '-15px'}}/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Snacks
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Snacks Options
+                            </div>
+                        </div>
+                    </div>
+                    <div className="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <div className="tilecomponent1">
+                            <img src="/images/dinner.png" style={{height: '150px',width:'100%',marginleft: '-15px'}}/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Dinner
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Dinner Options
+                            </div>
+                        </div>
+                    </div>
+                    <div className="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <div className="tilecomponent1">
+                            <img src="/images/drinks.png" style={{height: '150px',width:'100%',marginleft: '-15px'}}/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Drinks
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Drinks Options
+                            </div>
+                        </div>
+                    </div>
+                    <div class="divblock col-lg-3 col-md-4 col-sm-6 col-xs-12">
+                        <div class="tilecomponent1">
+                            <img src="/images/nightlife.png" style={{height: '150px',width:'100%'}}/>
+                        </div>
+                        <div className="tilecomponent2">
+                            <div className="tileheading">
+                                Nightlife
+                            </div>
+                            <div className="tilesubheading">
+                                Start Your Day with Exclusive Nightlife Options
+                            </div>
+                        </div>
+                    </div>
+                </div>

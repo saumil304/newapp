@@ -1,0 +1,116 @@
+
+body{
+    margin: auto;
+}
+
+.divblock{
+    height: 150px;
+    box-shadow: 1px 3px 10px black;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 350px;
+    margin-bottom: 10px;
+}
+.divblock:hover{
+    transform: scale(1.1,1.1);
+}
+
+
+
+#tagline{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    margin-top: -30px;
+}
+.location{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.heading{
+    
+    text-align: left;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #192f60;
+
+}
+.quicksearchcontainer{
+    margin-top: 50px;
+    margin-left: 110px;
+
+}
+.subheading{
+    text-align: left;
+    font-size: 18px;
+    font-weight: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    line-height: 0.1;
+
+}
+.tilecontainer{
+    height: 150px;
+    width: 28%;
+    margin-top: 15px;
+    display: inline-block;
+    margin-right: 30px;
+    box-shadow: 1px 3px 10px black;
+    margin-bottom: 30px;
+    
+}
+.tilecomponent1{
+    float: left;
+    width: 46%;
+    margin-left: -15px;
+    
+   
+}
+
+.tilecomponent2{
+    float: left;
+    width: 46%;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.tileheading{
+    text-align: left;
+    font-size: 25px;
+    font-weight: bold;
+    color: #192f60;
+    
+}
+.tilesubheading{
+    text-align: left;
+    font-size: 18px;
+    font-weight: normal;
+    color: gray;
+    margin-top: 10px;
+ 
+}
+.tilecontainer:hover{
+    transform: scale(1.1,1.1);
+}
+
+
+.myfont{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+.fb{
+    color: #4267B2;
+    text-decoration: none;
+}
+.yt{
+    color: #FF0000;
+    text-decoration:none;
+    
+}
+#heading{
+    text-align: center;
+    color: teal;
+}
